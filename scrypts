@@ -31,7 +31,7 @@ _G.scripts = {
 	},
 	{
 		"BIG Paintball Fucker",
-		"paste.ee/r/1yr4J",
+		"pastebin.com/raw/PuaaGKsT",
 		1
 	},
 	{
@@ -102,11 +102,6 @@ _G.scripts = {
 	{
 		"Bloody Demon Gui",
 		"paste.ee/r/N7qAc",
-		2
-	},
-	{
-		"DominoHub V3",
-		"raw.githubusercontent.com/NotDominos/DominoHubV3/master/DominoHubV3",
 		2
 	},
 	{
@@ -191,7 +186,7 @@ _G.scripts = {
 	},
 	{
 		"Phantom Forces Aimbot {Spencer}",
-		"www.pastebin.com/raw/m57yfT6v",
+		"pastebin.com/raw/figMHMj0",
 		1
 	},
 	{
@@ -256,7 +251,7 @@ _G.scripts = {
 	},
 	{
 		"Bloxburg autofarm {2.9ds}",
-		"ownedscripts.xyz/Bloxburg/autofarmer.lua",
+		"gist.githubusercontent.com/RealMrQuacks/2ea8ccb0eb977b84790584e02ac97a25/raw/2a32689e8c3da9da24754923b906a3e6a1452b91/gistfile1.txt",
 		1
 	},
 	{
@@ -273,11 +268,6 @@ _G.scripts = {
 		"Field Trip Z {Loxuis}",
 		"paste.ee/r/lpeNX",
 		1
-	},
-	{
-		"Discord Webhook Logger",
-		"paste.ee/r/h6sbS",
-		2
 	},
 	{
 		"Arsenal Backstab",
@@ -347,11 +337,6 @@ _G.scripts = {
 	{
 		"Drex Hub",
 		"pastebin.com/raw/maCqrW0g",
-		2
-	},
-	{
-		"VR Working 7/17 {osama}",
-		"paste.ee/r/4OUx8",
 		2
 	},
 	{
@@ -425,7 +410,7 @@ _G.scripts = {
 		2
 	},
 	{
-		"Dungeon Quest Autofarm (use clipboard)",
+		"Dungeon Quest Autofarm (clipboard mode)",
 		"paste.ee/r/EYs0B",
 		1
 	},
@@ -496,7 +481,7 @@ _G.scripts = {
 	},
 	{
 		"Owl Hub (40+ Games)",
-		"rfFDx",
+		"raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt",
 		2
 	},
 	{
@@ -537,11 +522,6 @@ _G.scripts = {
 	{
 		"CoolBoiTrack's Hub (5 Games)",
 		"gist.githubusercontent.com/Sinxzy/f68a32e529ba34d838cabd66c3957619/raw/55f716390c6ccce832576cecd263f0b0ca36907e",
-		2
-	},
-	{
-		"Aztup Hub Trial",
-		"gist.githubusercontent.com/Sinxzy/69ddca995f9d7a7a5a5831f84dfef246/raw/436d302f317e9da329cb071e7198f6da41cfafa6",
 		2
 	},
 	{
@@ -645,11 +625,6 @@ _G.scripts = {
 		2
 	},
 	{
-		"Discord Nitro Generator (Check Workspace)",
-		"gist.githubusercontent.com/Sinxzy/9eae4347ed7e05d643f6811f9f7c69dc/raw/73b66364de75afafc3fe2da8f39d05898b5622e8",
-		2
-	},
-	{
 		"Fix Sirhurt Compatability Issues",
 		"gist.githubusercontent.com/Sinxzy/3ab912becfadcf21703286996fc6ed0e/raw/d2b3df1961ea0b1631cdfc53b8b103d06767b6ce",
 		2
@@ -701,7 +676,7 @@ _G.scripts = {
 	},
 	{
 		"Give yourself PlayerData Points",
-		"gist.githubusercontent.com/Sinxzy/5bd98e5dcab4e57cf3e466c3a60c1018/raw/e6c464040dce1d9144d69ba2780dd5eec3533ab9",
+		"pastebin.com/raw/AUbvbqjN",
 		2
 	},
 	{
@@ -722,11 +697,6 @@ _G.scripts = {
 	{
 		"Shutdown Server",
 		"gist.githubusercontent.com/Sinxzy/4b03930503914a96276e177a8f1b25f2/raw/8d68656478e7e6bb3dcfd829b3a743d11768a110",
-		2
-	},
-	{
-		"saveinstance (sirhurt compatiable)",
-		"gist.githubusercontent.com/Sinxzy/88a58b5f5cdc40337a6a506f8fccdee8/raw/a804061b7aacf0433df27104dfc28490c08b31b7",
 		2
 	},
 	{
@@ -800,11 +770,6 @@ _G.scripts = {
 		2
 	},
 	{
-		"ServerCrash",
-		"gist.githubusercontent.com/Sinxzy/e197dd022b418b108b6d2af3d3cdb6ae/raw/6948f980b245220588a574b2911ea573ccc538d8",
-		2
-	},
-	{
 		"Unlock Shift Lock",
 		"gist.githubusercontent.com/Sinxzy/907c2e3fd6d6dc7da517f0b99e713d7f/raw/1ad061144904e5e2a00b7fc821a3d69cbcefdb66",
 		2
@@ -817,11 +782,6 @@ _G.scripts = {
 	{
 		"Player Inspector",
 		"gist.githubusercontent.com/Sinxzy/20bad74f127d8c09d42bb2e9a423ec35/raw/deaf7662cf35314e32112a95d2adbaf594ebe479",
-		2
-	},
-	{
-		"Sentinel ESP",
-		"gist.githubusercontent.com/Sinxzy/743efea466f62f52fc43b5c6c87c93a9/raw/f92325b738d132a64b9bcc315fa903baf2588423",
 		2
 	},
 	{
@@ -1066,32 +1026,32 @@ _G.scripts = {
 	},
 	{
 		"Anti Afk [Viva Hub]",
-		"gist.githubusercontent.com/Sinxzy/6f892b3907bcdd0e990cc4b3d152f296/raw/913f3591c6213658464299e6026bc5c94339bdc2",
+		"pastebin.com/raw/y6s1ExF3",
 		2
 	},
 	{
 		"Aimbot(Ctrl) [Viva Hub]",
-		"gist.githubusercontent.com/Sinxzy/6f892b3907bcdd0e990cc4b3d152f296/raw/913f3591c6213658464299e6026bc5c94339bdc2",
+		"pastebin.com/raw/y6s1ExF3",
 		2
 	},
 	{
 		"ESP [Viva Hub]",
-		"gist.githubusercontent.com/Sinxzy/6f892b3907bcdd0e990cc4b3d152f296/raw/913f3591c6213658464299e6026bc5c94339bdc2",
+		"pastebin.com/raw/y6s1ExF3",
 		2
 	},
 	{
 		"Hitbox [Viva Hub]",
-		"gist.githubusercontent.com/Sinxzy/6f892b3907bcdd0e990cc4b3d152f296/raw/913f3591c6213658464299e6026bc5c94339bdc2",
+		"pastebin.com/raw/y6s1ExF3",
 		2
 	},
 	{
 		"Chat Bpass [Viva Hub]",
-		"gist.githubusercontent.com/Sinxzy/6f892b3907bcdd0e990cc4b3d152f296/raw/913f3591c6213658464299e6026bc5c94339bdc2",
+		"pastebin.com/raw/y6s1ExF3",
 		2
 	},
 	{
 		"NameProtect [Viva Hub]",
-		"gist.githubusercontent.com/Sinxzy/6f892b3907bcdd0e990cc4b3d152f296/raw/913f3591c6213658464299e6026bc5c94339bdc2",
+		"pastebin.com/raw/y6s1ExF3",
 		2
 	},
 	{
@@ -1350,11 +1310,6 @@ _G.scripts = {
 		1
 	},
 	{
-		"Jailbreak [Team Changer]",
-		"gist.githubusercontent.com/Sinxzy/bccdc3070586bb5b7b7be6bd712d592f/raw/180cb03ccaee0a1aa2c7b2a2a46d6d52f95538c9",
-		1
-	},
-	{
 		"Jailbreak [Street Lights Off]",
 		"gist.githubusercontent.com/Sinxzy/3317df370a44529bd65728348a43cb60/raw/5cb5fc6bb4bb8f9887afe75bf6a386c0b04bc74c",
 		1
@@ -1552,11 +1507,6 @@ _G.scripts = {
 	{
 		"Good Phantom Forces Gui",
 		"gist.githubusercontent.com/Sinxzy/4f09d630df3ebe861ec6141e279f4b26/raw/dda16af38035a2ef9295c3747533e7df2b4b2299",
-		1
-	},
-	{
-		"Trolling Gui for Roleplay Games",
-		"gist.githubusercontent.com/Sinxzy/74c814ec60021ecf9a7b8f84184cb181/raw/9d3b5ffc22907f74aa4a8814d2438405136bf45d",
 		1
 	},
 	{
@@ -2300,11 +2250,6 @@ _G.scripts = {
 		1
 	},
 	{
-		"Arsenal Aimbot by muhnch",
-		"gist.githubusercontent.com/Sinxzy/05f786e46866937b3e04baeba66b519c/raw/c70af3e85e206bcabefc9d669b167edccc605538",
-		1
-	},
-	{
 		"Stat Change The Legendary Swords 2",
 		"gist.githubusercontent.com/Sinxzy/9d1c43f6b6cd061479e9f2c9e38be44b/raw/541a87504636fcc14a5e423d2fb9ffdbf53f7432",
 		1
@@ -2327,11 +2272,6 @@ _G.scripts = {
 	{
 		"Hell Elevator Gui [Rose Hub]",
 		"gist.githubusercontent.com/Sinxzy/88119478cf30a1666ec57d8fccd10e03/raw/6709517e2d3adb583afb8f88ad82dc16d84717f7",
-		1
-	},
-	{
-		"Arsenal Aimbot (Post by Mop)",
-		"gist.githubusercontent.com/Sinxzy/2b13e5db581e7410cd078d0d06169a9c/raw/aef2c1cc4aeb0a075d2a4af9060195fbf37a6a57",
 		1
 	},
 	{
@@ -2366,7 +2306,7 @@ _G.scripts = {
 	},
 	{
 		"Grab Knife V4",
-		"gist.githubusercontent.com/Sinxzy/a80cb2489372551e070bfb26aa797a9c/raw/f94794c186d276a43bfdb715c90138f37732bfd5",
+		"pastebin.com/raw/LaLQ5jvb",
 		2
 	},
 	{
@@ -2416,7 +2356,7 @@ _G.scripts = {
 	},
 	{
 		"FE Dick",
-		"gist.githubusercontent.com/Sinxzy/c1737dcbbdecd87e4ac610f3accf3a8f/raw/0324a0cc4e521fa3a12272a92578a51d82fb99bb",
+		"pastebin.com/raw/bnx2BLSK",
 		2
 	},
 	{
