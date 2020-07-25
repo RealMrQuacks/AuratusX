@@ -120,8 +120,12 @@ local function initLibrary()
 			else			
 			game:GetService("CoreGui").Scraper.Epic.Visible = true
 			end
-	elseif Input.Keycode == Enum.KeyCode.RightControl then
-	        	gui.Enabled = not gui.Enabled
+    	end
+	end)
+	UserInputService.InputBegan:Connect(function(Input, gameProcessedEvent)
+    	if gameProcessedEvent then return end
+    	if Input.KeyCode == Enum.KeyCode.RightControl then
+        	gui.Enabled = not gui.Enabled
 			if game:GetService("CoreGui").Scraper.Epic.Visible then
 			game:GetService("CoreGui").Scraper.Epic.Visible = false
 			else			
